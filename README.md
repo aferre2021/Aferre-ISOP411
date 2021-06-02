@@ -9,6 +9,6 @@
 ```
  
  - Exercise example for my project.
- - You can reach my by email: aferre@gmail.com
+ - You can reach me by email: alvaroferrehernandez@alumnos.tajamar.com
  - At the moment I'm studying ASIR at tajamr.
  
